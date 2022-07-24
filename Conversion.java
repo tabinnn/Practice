@@ -14,5 +14,5 @@ class Conversion
 		System.out.println("\nConversion of double to byte.");
 		b = (byte) d;
 		System.out.println("d and b " + d + " " + b);
-	}
+}
 }
